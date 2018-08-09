@@ -25,6 +25,7 @@ def sum(hash)
     puts "The #{year} summer olympics took place in #{city}"
   end
 end
+iterate_through_keys
 
 def iterate_through_keys
   # Implement this method so that it converts the keys of the hash created in add_a_key_value_pair
